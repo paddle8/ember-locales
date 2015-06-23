@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This project will be superceded by a community choice discussed here: https://github.com/yahoo/ember-intl/issues/109. If you have any issues migrating, please provide feedback so we may try to move you nicely into these projects.
+
 # ember-locales
 
 This addon provides internationalization helpers through https://github.com/fnando/i18n-js.
